@@ -1,0 +1,19 @@
+<mvc:View controllerName="sap.my.app2.controller.View1" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m">
+	<Button
+		text="Voltar"
+		type="Accept"
+		press="onShowHello"/>
+		
+	<Button
+		text="Voltar"
+		type="Back"
+		width="10%"
+		press="onShowHello"/>
+		
+    <CheckBox
+    text="Teste"
+    />
+    
+    
+		
+</mvc:View>
